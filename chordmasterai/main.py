@@ -16,7 +16,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from moviepy.video.io.VideoFileClip import VideoFileClip
 
 # --- НАСТРОЙКИ ---
-TOKEN = "8665559487:AAHl_Rd0GpD0AzhrT7XtnUnTfZGYleX4xZ0"
+TOKEN = ""
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 router = Router()

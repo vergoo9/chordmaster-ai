@@ -138,10 +138,10 @@ The bot includes a subscription system that unlocks:
 
 ## 📸 Screenshots
 
-<img src="ScreenshotsCMAI/main.png" width="250"/>
-<img src="ScreenshotsCMAI/categories.png" width="250"/>
-<img src="ScreenshotsCMAI/ai.png" width="250"/>
-
+<img src="ScreenshotsCMAI/IMG_5710.PNG" width="250"/>
+<img src="ScreenshotsCMAI/IMG_5711.PNG" width="250"/>
+<img src="ScreenshotsCMAI/IMG_5712.PNG" width="250"/>
+<img src="ScreenshotsCMAI/IMG_5713.PNG" width="250"/>
 
 ## Author
 
